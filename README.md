@@ -6,7 +6,7 @@ Like the name said, a Dark Theme LaTex Lab Template created with <3 by Anthony K
 
 ### Where Does Document Starts
 
-Document starts at [Line 80] it has a giant comment block you can't miss it. Everything after [Line 80] until the comment that says `END YOUR REPORT` should be changed.
+Document starts at [Line 80] it has a giant comment block that says `BEGIN YOUR REPORT` you can't miss it. Everything after [Line 80] until the comment that says `END YOUR REPORT` should be changed.
 
 ## Stuff To Change
 
